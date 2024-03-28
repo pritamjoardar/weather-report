@@ -52,7 +52,7 @@ const Home = () => {
     <div className="w-screen h-screen  flex bg-gradient-to-r from-violet-200 to-pink-200">
       <span className="bg-gradient-to-r from-fuchsia-500 to-pink-500 rounded-lg  flex flex-col justify-center m-auto w-min  p-3 h-[30rem] md:p-10 md:h-[40rem]">
       <span className="flex border items-center justify-center w-fit rounded-full overflow-hidden px-2 bg-white">
-      <input onChange={(e)=>setCity(e.target.value)} type="search" name="search" placeholder='kolkata' id=""  className='p-2  outline-none w-[14rem] md:w-[30rem]'/>
+      <input onChange={(e)=>setCity(e.target.value)} value={city} type="search" name="search" placeholder='kolkata' id=""  className='p-2  outline-none w-[14rem] md:w-[30rem]'/>
       <button onClick={()=>GetData()} className='px-2 text-2xl'><IoIosSearch /></button>
       </span>
       <div className='flex justify-center mt-2'><p className='text-white'>{Error}</p></div>
