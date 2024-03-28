@@ -73,7 +73,7 @@ const Home = () => {
                     <Image src={snow.src} alt='weather condition' width={100} height={100}/>
                        )}     
                       
-      <h1>{temp}</h1>
+      <h1>{temp}   &deg;C</h1>
       <p>{name}</p>
       </div>
       <span className="flex justify-between">
