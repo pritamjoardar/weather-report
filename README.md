@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Weather Report
 
-## Getting Started
+Simple Website/API for search weather report made with Next.js Tailwind CSS that actually works with no problem.
 
-First, run the development server:
+## Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Introducing WeatherCheck: your go-to weather web app for city-specific forecasts! Get instant access to temperature, wind speed, humidity, and current weather conditions worldwide. With a sleek interface, easily navigate and find the information you need. Powered by reliable weather APIs, WeatherCheck ensures accurate forecasts for any location. Plan your activities with confidence, whether it's a weekend getaway or daily commute. Stay informed and ahead of the elements with WeatherCheck. Experience convenience and peace of mind, anytime, anywhere. Try WeatherCheck today and never be caught off guard by the weather again!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can preview and try the website live in Vercel here : [weather-report]([https://reelsaver.online/](https://weather-report-inky.vercel.app/))
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Website Preview
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Easy and User friendly UI (Interactions feedback and error messages).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+<img width="2560" alt="—Pngtree—blue-violet glow effect decoration_5107712 1" src="https://github.com/pritamjoardar/weather-report/assets/111422356/d28465f2-2da1-43ef-a06d-dd28568ba918">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Made with ❤️ by Pritam Joardar.
+
